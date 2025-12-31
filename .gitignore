@@ -4,5 +4,5 @@
 # Rapor ve log dosyalarını engelle
 *.log
 
-# Eğer ileride klasör içinde saklamak istersen klasörü de engelleyebilirsin
+# Ekran görüntüsü klasörünü engelle
 * screenshots/
